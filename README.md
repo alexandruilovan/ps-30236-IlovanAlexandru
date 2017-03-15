@@ -1,1 +1,3 @@
-# ps-30236-IlovanAlexandru
+# Proiectare Sofware
+Ilovan Alexandru 
+Grupa 30236
